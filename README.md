@@ -4,7 +4,7 @@ This project is just to show you my config and specify the color of the "fino-ti
 
 Here is the result of the configuration. If you want, you can change the color. I will explain how to do it.
 
-![ZSH%20config%2019f5e0cee86f4418b760e0768f614e1d/Untitled.png](ZSH%20config%2019f5e0cee86f4418b760e0768f614e1d/Untitled.png)
+![ZSH%20config%2019f5e0cee86f4418b760e0768f614e1d/Untitled.png]('Capture d’écran du 2023-12-04 16-37-22.png')
 
 First, make sure you have zsh installed on your device.
 Navigate to your `.oh-my-zsh` directory:
