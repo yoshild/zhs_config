@@ -81,3 +81,4 @@ spectrum_ls
 ```
 
 This command will display all the colors available in your terminal. Simply view the number assigned to each color and replace the corresponding number in the file.
+Now restart your terminal and you will have your awesome custom terminal.
